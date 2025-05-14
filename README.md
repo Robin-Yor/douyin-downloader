@@ -26,9 +26,6 @@ DouYin Downloader 是一个用于批量下载抖音内容的工具。基于抖�
   - 支持数据持久化到数据库
   - 可根据时间范围过滤
 
-## 🚀 快速开始
-
-### Installation
 
 <!-- 刘涵潇项目介绍 -->
 # Project Background
@@ -101,6 +98,12 @@ After strict virus detection and security verification, it ensures that users wi
 It is convenient for TikTok fans to collect their favorite videos for offline viewing. It also provides convenience for video editors who need to obtain materials from TikTok and data analysts who study TikTok trends. It helps them quickly collect the required materials and data.
 
 
+
+## 🚀 Getting Started <!-- by 李镭雨 -->
+=======
+## 🚀 快速开始
+
+### Installation
 
 1. 安装 Python 依赖：
 ```bash

@@ -27,7 +27,7 @@ DouYin Downloader 是一个用于批量下载抖音内容的工具。基于抖�
   - 可根据时间范围过滤
 
 
-<!-- 刘涵潇项目介绍 -->
+<!-- 刘涵潇 -->
 # Project Background
 1. Market Level
 The Booming Development of the Short Video Industry
